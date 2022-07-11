@@ -111,7 +111,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 
 /**
  * swap - function that swap if parent is bigger
- * @arg_node: node to be checked and swaped
+ * @node: node to be checked and swaped
  */
 void swap(const heap_t *node)
 {
